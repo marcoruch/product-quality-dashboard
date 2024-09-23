@@ -1,5 +1,7 @@
 # Prototyp zur Visualisierung und Verwaltung von User Stories
 
+![1](https://github.com/user-attachments/assets/f52904c4-f12e-496b-8d57-eafa6d8e5a0b)
+
 ## Projektübersicht
 
 Ziel dieses Projekts ist die Entwicklung eines benutzerfreundlichen UI/UX-Konzepts, das die Übersichtlichkeit und Organisation von User Stories innerhalb implementierter Features und Epics verbessert. 
