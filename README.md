@@ -1,6 +1,6 @@
 # Prototyp Software Product Quality Dashboard
 
-![1](https://github.com/user-attachments/assets/f52904c4-f12e-496b-8d57-eafa6d8e5a0b)
+![quality_dashboard](https://github.com/user-attachments/assets/950c3f72-5289-44d5-a1d2-a5aaf6a895cf)
 
 ## Projektübersicht
 
