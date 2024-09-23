@@ -1,4 +1,4 @@
-# Prototyp zur Visualisierung und Verwaltung von User Stories
+# Prototyp Software Product Quality Dashboard
 
 ![1](https://github.com/user-attachments/assets/f52904c4-f12e-496b-8d57-eafa6d8e5a0b)
 
