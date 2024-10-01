@@ -118,8 +118,8 @@ Beforehand, we also explore what product quality means
 ## Artifacts
 
 ### Google Forms Survey
-Link: <>
+- Link: <>
 
 ### Links to drawings
-Link Person a: <>
-Link Person b: <>
+- Link Person a: <>
+- Link Person b: <>
