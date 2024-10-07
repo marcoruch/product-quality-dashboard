@@ -20,6 +20,8 @@ These interview questions will be concluded via google forms, drawing out potent
 | Mislav Gazdovic         | Software Engineer, Team Ash                       | Julius Bär Bank AG          |
 | Juhee Bhandari          | Agile Tester / Test Automation, Team Ash          | Julius Bär Bank AG          |
 | Anton Machnic           | Agile Tester / Test Automation, Team Ash          | Julius Bär Bank AG          |
+| Oleksii Yakuba          | Softwareentwickler                                | xs Informatik GmbH          |
+| Michael Stöcklin        | Geschäftsinhaber / Softwareentwickler             | xs Informatik GmbH          |
 
 ## Perspective on Quality, Painpoints and Gainpoints
 
