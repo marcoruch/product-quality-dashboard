@@ -22,6 +22,9 @@ These interview questions will be concluded via google forms, drawing out potent
 | Anton Machnic           | Agile Tester / Test Automation, Team Ash          | Julius Bär Bank AG          |
 | Oleksii Yakuba          | Softwareentwickler                                | xs Informatik GmbH          |
 | Michael Stöcklin        | Geschäftsinhaber / Softwareentwickler             | xs Informatik GmbH          |
+| Joshua Udeze            | Kundenberater, Power-User, Kompetenz-Center Schaden           | Suva Aarau                  |
+| Joshua Udeze +1         | Kundenberater, Power-User, Kompetenz-Center Schaden           | Suva Aarau                  |
+| Joshua Udeze +1         | Kundenberater, Power-User, Kompetenz-Center Schaden           | Suva Aarau                  |
 
 ## Perspective on Quality, Painpoints and Gainpoints
 
